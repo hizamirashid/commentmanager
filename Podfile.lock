@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Hero (1.4.0)
+  - IQKeyboardManagerSwift (6.0.4)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SwiftyJSON (4.2.0)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.1)
+  - Hero (= 1.4.0)
+  - IQKeyboardManagerSwift (= 6.0.4)
+  - NVActivityIndicatorView (= 4.6.1)
+  - SDWebImage (= 4.4.6)
+  - SwiftyJSON (= 4.2.0)
+  - UIScrollView-InfiniteScroll (= 1.1.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Hero
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SwiftyJSON
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 07134a238c8bd8e3301e9039deb4df8aac54f00e
+
+COCOAPODS: 1.8.4
